@@ -1,0 +1,10 @@
+{
+    "name": "APT-CAT Installer",
+    "description": "Install apt-get packages via the command :install: xyz",
+    "version": "0.0.1",
+    "author_name": "Canapaio",
+    "author_url": "https://github.com/canapaio",
+    "plugin_url": "https://github.com/canapaio/apt-cat",
+    "tags": "apt, install, apt-get, apt-cat"
+    "thumb": "https://raw.githubusercontent.com/canapaio/apt-cat/refs/heads/main/apt-cat.png"
+  }
